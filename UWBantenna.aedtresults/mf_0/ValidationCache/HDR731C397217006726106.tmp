@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='hs=\'1.6000000000000001mm\' lf=\'13.5mm\' lp=\'15mm\' ls=\'30mm\' lsl1=\'3mm\' lsl2=\'1.5mm\' wf=\'3.2000000000000002mm\' wg=\'12.5mm\' wp=\'14.5mm\' ws=\'35mm\' wsl1=\'1mm\' wsl2=\'1.5mm\''
+		Status=true
+		FileName='VI731C397217006726107.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'
